@@ -66,7 +66,6 @@ public class CustomList extends ArrayAdapter<City> {
 
     //has city, delete city, and count cities
     public boolean hasCity(City city){
-        return true;
     }
 
 }
